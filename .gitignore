@@ -1,5 +1,2 @@
-/build/
-/data/
-/gltf/library.wasm
-/.idea/
-/cmake-build-*/
+﻿bin
+bin-int
